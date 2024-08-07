@@ -1,8 +1,14 @@
 ## Hi there 👋
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/creatorfromhell/creatorfromhell/main/logo.png" />
+    <img src="https://raw.githubusercontent.com/creatorfromhell/creatorfromhell/main/logo.png" height="500" />
 </p> 
+<p align="center">    
+<i><b>Developer. Opinionated. Gamer.</b></i>
+</p>
+
+## About
+I enjoy programming and anything tech-related. I'm currently working on Minecraft projects and love implementing overkill functionality to learn new frameworks and skills. I'm in the process of starting a Minecraft server since I used to love hosting one during the Minecraft Alpha days. I love creating the foundation of programs by utilizing different program structures and design patterns. The cosmetic stuff kinda bores me.
 
 ## Contact
 - Discord username: creatorfromhell
@@ -46,6 +52,21 @@ This list is very fluid as I often change up what game I play.
 - SQLite
 - H2
 
+## My PC
+
+### My Peripherals
+Logitech G502 HERO
+Das Keyboard 4 Professional 
+
+### Main Build
+Ryzen 9 7950X
+64GB DDR5 RAM
+Radeon 6800XT
+
+### Travel Laptop
+Lenovo v15 Business Series
+Ryzen 7 7730U
+40 GB Ram
 
 ## My Stats
 
