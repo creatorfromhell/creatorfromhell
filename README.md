@@ -55,18 +55,18 @@ This list is very fluid as I often change up what game I play.
 ## My PC
 
 ### My Peripherals
-Logitech G502 HERO
-Das Keyboard 4 Professional 
+- Logitech G502 HERO
+- Das Keyboard 4 Professional 
 
 ### Main Build
-Ryzen 9 7950X
-64GB DDR5 RAM
-Radeon 6800XT
+- Ryzen 9 7950X
+- 64GB DDR5 RAM
+- Radeon 6800XT
 
 ### Travel Laptop
-Lenovo v15 Business Series
-Ryzen 7 7730U
-40 GB Ram
+- Lenovo v15 Business Series
+- Ryzen 7 7730U
+- 40 GB Ram
 
 ## My Stats
 
