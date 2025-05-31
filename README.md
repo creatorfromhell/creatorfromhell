@@ -9,9 +9,9 @@
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=creatorfromhell&theme=onedark&column=-1" />
-    <img src="https://github-readme-stats.vercel.app/api?username=creatorfromhell&count_private=true&show_icons=true&theme=onedark" height="135" " />
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=creatorfromhell&theme=dark" height="135" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creatorfromhell&theme=onedark&layout=compact" height="135" />
+    <img src="https://github-readme-stats.vercel.app/api?username=creatorfromhell&count_private=true&show_icons=true&theme=onedark" height="125" " />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=creatorfromhell&theme=dark" height="125" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creatorfromhell&theme=onedark&layout=compact" height="125" />
 </p>
         
 ## About
