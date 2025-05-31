@@ -7,6 +7,10 @@
 <i><b>Developer. Opinionated. Gamer.</b></i>
 </p>
 
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=creatorfromhell&theme=onedark&column=-1" />
+</p>
+        
 ## About
 I enjoy programming and anything tech-related. I'm currently working on Minecraft projects and love implementing overkill functionality to learn new frameworks and skills. I'm in the process of starting a Minecraft server since I used to love hosting one during the Minecraft Alpha days. I love creating the foundation of programs by utilizing different program structures and design patterns. The cosmetic stuff kinda bores me.
 
